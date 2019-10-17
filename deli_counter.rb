@@ -10,6 +10,7 @@ def line(katz_deli)
       
 
     end
+    puts position_in_line
   end
 
 end
