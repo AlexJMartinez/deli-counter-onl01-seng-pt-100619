@@ -8,8 +8,6 @@ def line(katz_deli)
     katz_deli.each_with_index do |element, index|
       position_in_line << " #{index+1}. #{element}"
 
-
-
     end
     puts position_in_line
   end
